@@ -1,0 +1,10 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore build and modules directories
+node_modules
+.next
+
+# Ignore all HTML files:
+*.html
